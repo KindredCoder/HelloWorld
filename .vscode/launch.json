@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kylegibson/Desktop/Projects/helloworld/CPP_Projects/helloworld",
+      "program": "/Users/kylegibson/Desktop/Projects/helloworld/CPP_Projects/helloworld/build/Debug/outDebug"
+    }
+  ]
+}
